@@ -1,0 +1,11 @@
+empno|ename|salary|location
+100|ramu|20000|bangalore
+101|ramu1|20000|bangalore
+102|ramu2|14500|chennai
+103|ramu3|24000|patna
+104|ramu4|20000|mumbai
+105|ramu5|2500|bangalore
+106|ramu6|20670|bangalore
+107|ramu7|24500|trivendam
+108|ramu8|15600|bangalore
+109|ramu9|26700|delhi

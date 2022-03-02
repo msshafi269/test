@@ -1,0 +1,4 @@
+empno|empname|salary|location
+101|ramu1|25000|bangalore
+102|ramu2|15000|chennai
+103|ramu3|2500|mumbai
